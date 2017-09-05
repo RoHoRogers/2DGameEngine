@@ -1,7 +1,3 @@
-/*
- The following is not free software. You may use it for educational purposes, but you may not redistribute or use it commercially.
- (C) Burak Kanber 2012
- */
 /* global objectNum, context, mRelaxationCount, mAllObjects, mPosCorrectionRate */
 /*jslint node: true, vars: true, evil: true, bitwise: true */
 "use strict";
